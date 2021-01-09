@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: It's open system
         content: >-
           ## Lorem ipsum
 

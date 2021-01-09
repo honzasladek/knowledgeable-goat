@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Custom Apps As A Service
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Contember is the missing piece for creating custom applications. Prototype
+      yours in a day, launch it in 2 weeks and run it for years.
     actions:
       - label: Learn More
         url: /features

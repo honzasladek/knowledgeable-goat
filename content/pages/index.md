@@ -21,7 +21,7 @@ sections:
       Creating, launching and maintaining custom applications is hard and
       expensive. It shouldn't be either and we believe Contember is the answer.
     features:
-      - title: The Best Feature of Your Services
+      - title: Prototype in 1 day
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-

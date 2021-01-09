@@ -25,9 +25,10 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Contember helps you to see how the data will work together, what kind
+          of relations will be there and what would be good approach to managing
+          the content. Just define your app model and administration and start
+          clicking around.
         actions:
           - label: Learn More
             url: /features

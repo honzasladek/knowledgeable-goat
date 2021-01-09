@@ -68,16 +68,9 @@ sections:
             icon_position: right
       - title: It's open system
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          You should own your data. Contember API is open-sourced under MIT
+          licence, Contember Admin is free to use with Contember Cloud or
+          licences are available.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item

@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Why you should use Contember today
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Creating, launching and maintaining custom applications is hard and
+      expensive. It shouldn't be either and we believe Contember is the answer.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

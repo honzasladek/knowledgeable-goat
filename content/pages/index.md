@@ -40,9 +40,10 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Contember is build for production. It can manage heavy traffic and has
+          many features built in that will come handy. From role-based access
+          control and complete event log to versions. There's no limit to users,
+          languages, sites,...  you can create what you want.
         actions:
           - label: Learn More
             url: /features

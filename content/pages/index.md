@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: It's open-source
+      - title: It's open-source!
         content: >-
           You should own your data. Contember API is open-sourced under MIT
           licence, Contember Admin is free to use with Contember Cloud or

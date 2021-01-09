@@ -55,9 +55,10 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          You take care of your business, we take care of the updates. When
+          running Contember on Contember Cloud (privately available now, public
+          version in Q3 2021), we update the API and admin automatically. Don't
+          worry about security updates anymore.
         actions:
           - label: Learn More
             url: /features

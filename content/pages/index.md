@@ -36,7 +36,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Make your prototype production ready
+      - title: From prototype to production ready app
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
